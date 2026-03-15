@@ -33,6 +33,6 @@ My Goal is to Demonstrate & Educate People on How Gearing Systems Work and Affec
 
 I am going to create and explain models of 
 - 3 types of Differential (Open, Welded/Direct, Torsen)
-- 2 types of Gearbox (Standard Manual, CVT)
+- 2 types of Gearbox (Standard Manual, CVT[continuosly variable transmission])
 
 and I am going to give out 3d-printed miniature versions of the open diff models.
