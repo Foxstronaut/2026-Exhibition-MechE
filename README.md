@@ -2,7 +2,7 @@
 
 this is all of the notes and files for my **2026 Exhibition** as a Sophomore at [Lincoln High School](https://lincolnhs.seattleschools.org)
 
-I used obsidian to make notes, write down ideas, and organize files relating to this project. It makes a vault that can store notes as markdown (.md, same filetype as this README), and also can organize and link files to markdown and link the markdown to each other which helps keep this project less scattered.
+I used obsidian to make notes, write down ideas, and organize files relating to this project. It makes a vault that can store notes as markdown (.md, same filetype as this README file), and also can organize and link files to markdown and link the markdown to each other which helps keep this project less scattered.
 
 I could not do this alone and I am recieving great support from FRC Team 8248 - [ChainLynx Robotics](https://chainlynx8248.com)
 

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -168,8 +168,10 @@
   },
   "active": "cda503474aef4488",
   "lastOpenFiles": [
-    "Process.md",
+    "/README.md",
     "Untitled.md",
+    "Process.md",
+    "README.md",
     "interactive presentation.md",
     "assets/what's assets.md",
     "assets/Pasted image 20260315001005.png",
@@ -178,7 +180,6 @@
     "assets/Pasted image 20260314180220.png",
     "assets/Pasted image 20260314033320.png",
     "assets/Pasted image 20260314033131.png",
-    "README.md",
     "New Ideas.md",
     "Initial Ideas/Torsen LSD Onshape.md",
     "Initial Ideas/Open Diff.md",
